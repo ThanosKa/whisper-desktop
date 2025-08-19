@@ -10,6 +10,4 @@ Choose your platform:
 |----------|----------|
 | 🍎 **macOS** | [Download Whisper.dmg](https://github.com/ThanosKa/whisper-desktop/releases/latest/download/Whisper.dmg) |
 | 🪟 **Windows** | [Download Whisper.exe](https://github.com/ThanosKa/whisper-desktop/releases/latest/download/Whisper.exe) |
-| 🐧 **Linux** | [Download Whisper.AppImage](https://github.com/ThanosKa/whisper-desktop/releases/latest/download/Whisper.AppImage) |
-| 📦 **Linux (Debian)** | [Download Whisper.deb](https://github.com/ThanosKa/whisper-desktop/releases/latest/download/Whisper.deb) |
 | 🗜️ **Portable (ZIP)** | [Download Whisper.zip](https://github.com/ThanosKa/whisper-desktop/releases/latest/download/Whisper.zip) |
